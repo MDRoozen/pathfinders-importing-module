@@ -1,0 +1,40 @@
+{
+  "id": "pathfinders-organized-play-characters",
+  "title": "Pathfinders Organized play Characters",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Morris Roozen",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "characters",
+      "label": "Characters",
+      "path": "packs/characters",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "companions-and-summons",
+      "label": "Companions and Summons",
+      "path": "packs/companions-and-summons",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "scripts": ["scripts/bundle.js"]
+}
