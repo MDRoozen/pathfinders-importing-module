@@ -36,5 +36,5 @@
       }
     }
   ],
-  "scripts": ["scripts/bundle.js"]
+  "scripts": ["scripts/testScript.js"]
 }
