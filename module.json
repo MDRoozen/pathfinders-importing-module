@@ -1,7 +1,7 @@
 {
   "id": "pathfinders-organized-play-characters",
   "title": "Pathfinders Organized play Characters",
-  "manifest": "https://raw.githubusercontent.com/MDRoozen/pathfinders-importing-module/master/module.json",
+  "manifest": "https://github.com/MDRoozen/pathfinders-importing-module/blob/master/module.json",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
